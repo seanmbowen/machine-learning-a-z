@@ -42,19 +42,6 @@ The focus is not just on completing the course, but on **building a strong, prac
 
 ---
 
-## 📁 Repository Structure
-
-machine-learning-journey/
-│
-├── data/                # Datasets used throughout the course
-├── notebooks/           # Jupyter notebooks by section/topic
-├── scripts/             # Reusable Python scripts (if applicable)
-├── images/              # Visualizations and outputs
-├── requirements.txt     # Project dependencies
-└── README.md
-
----
-
 ## 📌 Why This Repository Exists
 
 As a Software Engineering Manager exploring deeper into **AI and data-driven systems**, this repository serves as:
