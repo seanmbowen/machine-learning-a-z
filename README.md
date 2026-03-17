@@ -43,6 +43,7 @@ The focus is not just on completing the course, but on **building a strong, prac
 ---
 
 ## 📁 Repository Structure
+
 machine-learning-journey/
 │
 ├── data/                # Datasets used throughout the course
